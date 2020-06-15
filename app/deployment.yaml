@@ -26,6 +26,6 @@ spec:
     spec:
       containers:
       - name: hello-python
-        image: gabor77/hello-python:3.8
+        image: gabor77/hello-python:3.9
         ports:
         - containerPort: 5000
